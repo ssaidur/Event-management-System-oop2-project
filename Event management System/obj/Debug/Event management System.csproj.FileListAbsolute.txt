@@ -1,0 +1,19 @@
+E:\project oop2\New folder (2)\Event management System\Event management System\bin\Debug\Event management System.exe.config
+E:\project oop2\New folder (2)\Event management System\Event management System\bin\Debug\Event management System.exe
+E:\project oop2\New folder (2)\Event management System\Event management System\bin\Debug\Event management System.pdb
+E:\project oop2\New folder (2)\Event management System\Event management System\obj\Debug\Event management System.csproj.AssemblyReference.cache
+E:\project oop2\New folder (2)\Event management System\Event management System\obj\Debug\Event_management_System.Properties.Resources.resources
+E:\project oop2\New folder (2)\Event management System\Event management System\obj\Debug\Event management System.csproj.GenerateResource.cache
+E:\project oop2\New folder (2)\Event management System\Event management System\obj\Debug\Event management System.csproj.CoreCompileInputs.cache
+E:\project oop2\New folder (2)\Event management System\Event management System\obj\Debug\Event management System.exe
+E:\project oop2\New folder (2)\Event management System\Event management System\obj\Debug\Event management System.pdb
+E:\project oop2\New folder (2)\Event management System\Event management System\obj\Debug\Event management System.exe.config
+E:\project oop2\New folder (2)\Event management System\Event management System\obj\Debug\Event_management_System.login.resources
+E:\project oop2\New folder (2)\Event management System\Event management System\obj\Debug\Event_management_System.signup.resources
+E:\project oop2\New folder (2)\Event management System\Event management System\obj\Debug\Event_management_System.booking.resources
+E:\project oop2\New folder (2)\Event management System\Event management System\obj\Debug\Event_management_System.adminlogin.resources
+E:\project oop2\New folder (2)\Event management System\Event management System\obj\Debug\Event_management_System.Thanks_for_booking.resources
+E:\project oop2\New folder (2)\Event management System\Event management System\obj\Debug\Event_management_System.AdminDashboard.resources
+E:\project oop2\New folder (2)\Event management System\Event management System\obj\Debug\Event_management_System.paymentdashbord.resources
+E:\project oop2\New folder (2)\Event management System\Event management System\obj\Debug\Event_management_System.payment.resources
+E:\project oop2\New folder (2)\Event management System\Event management System\obj\Debug\Event_management_System.UserInfoForm.resources

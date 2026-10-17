@@ -1,0 +1,285 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\project oop2\\New folder (2)\\Event management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{277AE3AD-22C6-4F2D-8BAB-30F2A4AB8755}|Event management System\\Event management System.csproj|e:\\project oop2\\new folder (2)\\event management system\\event management system\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{277AE3AD-22C6-4F2D-8BAB-30F2A4AB8755}|Event management System\\Event management System.csproj|solutionrelative:event management system\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277AE3AD-22C6-4F2D-8BAB-30F2A4AB8755}|Event management System\\Event management System.csproj|E:\\project oop2\\New folder (2)\\Event management System\\event management system\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{277AE3AD-22C6-4F2D-8BAB-30F2A4AB8755}|Event management System\\Event management System.csproj|solutionrelative:event management system\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277AE3AD-22C6-4F2D-8BAB-30F2A4AB8755}|Event management System\\Event management System.csproj|E:\\project oop2\\New folder (2)\\Event management System\\event management system\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{277AE3AD-22C6-4F2D-8BAB-30F2A4AB8755}|Event management System\\Event management System.csproj|solutionrelative:event management system\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277AE3AD-22C6-4F2D-8BAB-30F2A4AB8755}|Event management System\\Event management System.csproj|E:\\project oop2\\New folder (2)\\Event management System\\event management system\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{277AE3AD-22C6-4F2D-8BAB-30F2A4AB8755}|Event management System\\Event management System.csproj|solutionrelative:event management system\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277AE3AD-22C6-4F2D-8BAB-30F2A4AB8755}|Event management System\\Event management System.csproj|E:\\project oop2\\New folder (2)\\Event management System\\event management system\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{277AE3AD-22C6-4F2D-8BAB-30F2A4AB8755}|Event management System\\Event management System.csproj|solutionrelative:event management system\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277AE3AD-22C6-4F2D-8BAB-30F2A4AB8755}|Event management System\\Event management System.csproj|E:\\project oop2\\New folder (2)\\Event management System\\event management system\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{277AE3AD-22C6-4F2D-8BAB-30F2A4AB8755}|Event management System\\Event management System.csproj|solutionrelative:event management system\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277AE3AD-22C6-4F2D-8BAB-30F2A4AB8755}|Event management System\\Event management System.csproj|E:\\project oop2\\New folder (2)\\Event management System\\event management system\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{277AE3AD-22C6-4F2D-8BAB-30F2A4AB8755}|Event management System\\Event management System.csproj|solutionrelative:event management system\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277AE3AD-22C6-4F2D-8BAB-30F2A4AB8755}|Event management System\\Event management System.csproj|E:\\project oop2\\New folder (2)\\Event management System\\event management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{277AE3AD-22C6-4F2D-8BAB-30F2A4AB8755}|Event management System\\Event management System.csproj|solutionrelative:event management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277AE3AD-22C6-4F2D-8BAB-30F2A4AB8755}|Event management System\\Event management System.csproj|E:\\project oop2\\New folder (2)\\Event management System\\event management system\\thanks_for_booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{277AE3AD-22C6-4F2D-8BAB-30F2A4AB8755}|Event management System\\Event management System.csproj|solutionrelative:event management system\\thanks_for_booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277AE3AD-22C6-4F2D-8BAB-30F2A4AB8755}|Event management System\\Event management System.csproj|E:\\project oop2\\New folder (2)\\Event management System\\event management system\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{277AE3AD-22C6-4F2D-8BAB-30F2A4AB8755}|Event management System\\Event management System.csproj|solutionrelative:event management system\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277AE3AD-22C6-4F2D-8BAB-30F2A4AB8755}|Event management System\\Event management System.csproj|E:\\project oop2\\New folder (2)\\Event management System\\event management system\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{277AE3AD-22C6-4F2D-8BAB-30F2A4AB8755}|Event management System\\Event management System.csproj|solutionrelative:event management system\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277AE3AD-22C6-4F2D-8BAB-30F2A4AB8755}|Event management System\\Event management System.csproj|E:\\project oop2\\New folder (2)\\Event management System\\event management system\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{277AE3AD-22C6-4F2D-8BAB-30F2A4AB8755}|Event management System\\Event management System.csproj|solutionrelative:event management system\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277AE3AD-22C6-4F2D-8BAB-30F2A4AB8755}|Event management System\\Event management System.csproj|E:\\project oop2\\New folder (2)\\Event management System\\event management system\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{277AE3AD-22C6-4F2D-8BAB-30F2A4AB8755}|Event management System\\Event management System.csproj|solutionrelative:event management system\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277AE3AD-22C6-4F2D-8BAB-30F2A4AB8755}|Event management System\\Event management System.csproj|E:\\project oop2\\New folder (2)\\Event management System\\event management system\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{277AE3AD-22C6-4F2D-8BAB-30F2A4AB8755}|Event management System\\Event management System.csproj|solutionrelative:event management system\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277AE3AD-22C6-4F2D-8BAB-30F2A4AB8755}|Event management System\\Event management System.csproj|E:\\project oop2\\New folder (2)\\Event management System\\event management system\\paymentdashbord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{277AE3AD-22C6-4F2D-8BAB-30F2A4AB8755}|Event management System\\Event management System.csproj|solutionrelative:event management system\\paymentdashbord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277AE3AD-22C6-4F2D-8BAB-30F2A4AB8755}|Event management System\\Event management System.csproj|E:\\project oop2\\New folder (2)\\Event management System\\event management system\\paymentdashbord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{277AE3AD-22C6-4F2D-8BAB-30F2A4AB8755}|Event management System\\Event management System.csproj|solutionrelative:event management system\\paymentdashbord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277AE3AD-22C6-4F2D-8BAB-30F2A4AB8755}|Event management System\\Event management System.csproj|E:\\project oop2\\New folder (2)\\Event management System\\event management system\\thanks_for_booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{277AE3AD-22C6-4F2D-8BAB-30F2A4AB8755}|Event management System\\Event management System.csproj|solutionrelative:event management system\\thanks_for_booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "userinfo.cs",
+              "DocumentMoniker": "E:\\project oop2\\New folder (2)\\Event management System\\Event management System\\userinfo.cs",
+              "RelativeDocumentMoniker": "Event management System\\userinfo.cs",
+              "ToolTip": "E:\\project oop2\\New folder (2)\\Event management System\\Event management System\\userinfo.cs",
+              "RelativeToolTip": "Event management System\\userinfo.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAjwHgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T08:44:20.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "userinfo.cs [Design]",
+              "DocumentMoniker": "E:\\project oop2\\New folder (2)\\Event management System\\Event management System\\userinfo.cs",
+              "RelativeDocumentMoniker": "Event management System\\userinfo.cs",
+              "ToolTip": "E:\\project oop2\\New folder (2)\\Event management System\\Event management System\\userinfo.cs [Design]",
+              "RelativeToolTip": "Event management System\\userinfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T08:34:36.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "login.cs [Design]",
+              "DocumentMoniker": "E:\\project oop2\\New folder (2)\\Event management System\\Event management System\\login.cs",
+              "RelativeDocumentMoniker": "Event management System\\login.cs",
+              "ToolTip": "E:\\project oop2\\New folder (2)\\Event management System\\Event management System\\login.cs [Design]",
+              "RelativeToolTip": "Event management System\\login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T16:20:26.067Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "login.cs",
+              "DocumentMoniker": "E:\\project oop2\\New folder (2)\\Event management System\\Event management System\\login.cs",
+              "RelativeDocumentMoniker": "Event management System\\login.cs",
+              "ToolTip": "E:\\project oop2\\New folder (2)\\Event management System\\Event management System\\login.cs",
+              "RelativeToolTip": "Event management System\\login.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAWwG8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T04:16:59.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "booking.cs [Design]",
+              "DocumentMoniker": "E:\\project oop2\\New folder (2)\\Event management System\\Event management System\\booking.cs",
+              "RelativeDocumentMoniker": "Event management System\\booking.cs",
+              "ToolTip": "E:\\project oop2\\New folder (2)\\Event management System\\Event management System\\booking.cs [Design]",
+              "RelativeToolTip": "Event management System\\booking.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T18:51:12.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "booking.cs",
+              "DocumentMoniker": "E:\\project oop2\\New folder (2)\\Event management System\\Event management System\\booking.cs",
+              "RelativeDocumentMoniker": "Event management System\\booking.cs",
+              "ToolTip": "E:\\project oop2\\New folder (2)\\Event management System\\Event management System\\booking.cs",
+              "RelativeToolTip": "Event management System\\booking.cs",
+              "ViewState": "AgIAAPAAAAAAAAAAAAAewP4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T19:21:25.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminDashboard.cs [Design]",
+              "DocumentMoniker": "E:\\project oop2\\New folder (2)\\Event management System\\Event management System\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "Event management System\\AdminDashboard.cs",
+              "ToolTip": "E:\\project oop2\\New folder (2)\\Event management System\\Event management System\\AdminDashboard.cs [Design]",
+              "RelativeToolTip": "Event management System\\AdminDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T04:38:52.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\project oop2\\New folder (2)\\Event management System\\Event management System\\Program.cs",
+              "RelativeDocumentMoniker": "Event management System\\Program.cs",
+              "ToolTip": "E:\\project oop2\\New folder (2)\\Event management System\\Event management System\\Program.cs",
+              "RelativeToolTip": "Event management System\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T06:02:01.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Thanks_for_booking.cs [Design]",
+              "DocumentMoniker": "E:\\project oop2\\New folder (2)\\Event management System\\Event management System\\Thanks_for_booking.cs",
+              "RelativeDocumentMoniker": "Event management System\\Thanks_for_booking.cs",
+              "ToolTip": "E:\\project oop2\\New folder (2)\\Event management System\\Event management System\\Thanks_for_booking.cs [Design]",
+              "RelativeToolTip": "Event management System\\Thanks_for_booking.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T16:17:27.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "adminlogin.cs [Design]",
+              "DocumentMoniker": "E:\\project oop2\\New folder (2)\\Event management System\\Event management System\\adminlogin.cs",
+              "RelativeDocumentMoniker": "Event management System\\adminlogin.cs",
+              "ToolTip": "E:\\project oop2\\New folder (2)\\Event management System\\Event management System\\adminlogin.cs [Design]",
+              "RelativeToolTip": "Event management System\\adminlogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T15:39:13.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminDashboard.cs",
+              "DocumentMoniker": "E:\\project oop2\\New folder (2)\\Event management System\\Event management System\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "Event management System\\AdminDashboard.cs",
+              "ToolTip": "E:\\project oop2\\New folder (2)\\Event management System\\Event management System\\AdminDashboard.cs",
+              "RelativeToolTip": "Event management System\\AdminDashboard.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwCYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T04:45:05.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "signup.cs",
+              "DocumentMoniker": "E:\\project oop2\\New folder (2)\\Event management System\\Event management System\\signup.cs",
+              "RelativeDocumentMoniker": "Event management System\\signup.cs",
+              "ToolTip": "E:\\project oop2\\New folder (2)\\Event management System\\Event management System\\signup.cs",
+              "RelativeToolTip": "Event management System\\signup.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAnwCIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T05:59:22.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "signup.cs [Design]",
+              "DocumentMoniker": "E:\\project oop2\\New folder (2)\\Event management System\\Event management System\\signup.cs",
+              "RelativeDocumentMoniker": "Event management System\\signup.cs",
+              "ToolTip": "E:\\project oop2\\New folder (2)\\Event management System\\Event management System\\signup.cs [Design]",
+              "RelativeToolTip": "Event management System\\signup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T04:56:58.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "paymentdashbord.cs",
+              "DocumentMoniker": "E:\\project oop2\\New folder (2)\\Event management System\\Event management System\\paymentdashbord.cs",
+              "RelativeDocumentMoniker": "Event management System\\paymentdashbord.cs",
+              "ToolTip": "E:\\project oop2\\New folder (2)\\Event management System\\Event management System\\paymentdashbord.cs",
+              "RelativeToolTip": "Event management System\\paymentdashbord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T07:57:34.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "adminlogin.cs",
+              "DocumentMoniker": "E:\\project oop2\\New folder (2)\\Event management System\\Event management System\\adminlogin.cs",
+              "RelativeDocumentMoniker": "Event management System\\adminlogin.cs",
+              "ToolTip": "E:\\project oop2\\New folder (2)\\Event management System\\Event management System\\adminlogin.cs",
+              "RelativeToolTip": "Event management System\\adminlogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T15:46:30.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "paymentdashbord.cs [Design]",
+              "DocumentMoniker": "E:\\project oop2\\New folder (2)\\Event management System\\Event management System\\paymentdashbord.cs",
+              "RelativeDocumentMoniker": "Event management System\\paymentdashbord.cs",
+              "ToolTip": "E:\\project oop2\\New folder (2)\\Event management System\\Event management System\\paymentdashbord.cs [Design]",
+              "RelativeToolTip": "Event management System\\paymentdashbord.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T07:53:54.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Thanks_for_booking.cs",
+              "DocumentMoniker": "E:\\project oop2\\New folder (2)\\Event management System\\Event management System\\Thanks_for_booking.cs",
+              "RelativeDocumentMoniker": "Event management System\\Thanks_for_booking.cs",
+              "ToolTip": "E:\\project oop2\\New folder (2)\\Event management System\\Event management System\\Thanks_for_booking.cs",
+              "RelativeToolTip": "Event management System\\Thanks_for_booking.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAnwBwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T16:18:52.391Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
